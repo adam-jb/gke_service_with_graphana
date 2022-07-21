@@ -2,6 +2,8 @@
 
 ### Deploy service with Graphana logging
 
+Based on https://cloud.google.com/community/tutorials/visualizing-metrics-with-grafana
+
 
 Graphana goes in a separate namespace to the main app
 
